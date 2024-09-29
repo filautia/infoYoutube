@@ -1,0 +1,934 @@
+{
+    "Channels": [
+        {
+            "Canal": "Daniel Lacalle",
+            "CanalID": "UCoA66gIqiExUIjwyw1cB9Dw",
+            "Nombre": "@DanielLacalleOfficial",
+            "Fecha de extracción": "2024-09-29 14:51:56"
+        },
+        {
+            "Canal": "El Blog Salmón TV",
+            "CanalID": "UCSuqMvJQKe0zEcU58OfL7cw",
+            "Nombre": "@Chicotolu",
+            "Fecha de extracción": "2024-09-29 14:57:03"
+        },
+        {
+            "Canal": "Economía Despierta (España)",
+            "CanalID": "UCRyGJcJYqqiCByEaUhDLMsw",
+            "Nombre": "@Ahora_Play",
+            "Fecha de extracción": "2024-09-29 14:57:44"
+        },
+        {
+            "Canal": "Jordi Évole (Secciones de economía)",
+            "CanalID": "UCh1OgMIWOlDBhFEYL3DHWjQ",
+            "Nombre": "@laSexta",
+            "Fecha de extracción": "2024-09-29 15:02:40"
+        },
+        {
+            "Canal": "Marc Vidal",
+            "CanalID": "UCKC77AR_zWXRTE2GOD_2Uag",
+            "Nombre": "@marc_vidal",
+            "Fecha de extracción": "2024-08-13 11:23:34"
+        },
+        {
+            "Canal": "El Orden Mundial (EOM)",
+            "CanalID": "UCU4sBmrCdWKibChqSCp5Y3w",
+            "Nombre": "@elordenmundial",
+            "Fecha de extracción": "2024-08-12 22:25:09"
+        },
+        {
+            "Canal": "Geopolítica Ahora",
+            "CanalID": "UCwd8Byi93KbnsYmCcKLExvQ",
+            "Nombre": "@NegociosTV",
+            "Fecha de extracción": "2024-08-12 22:57:20"
+        },
+        {
+            "Canal": "VisualPolitik",
+            "CanalID": "UCJQQVLyM6wtPleV4wFBK06g",
+            "Nombre": "@VisualPolitik",
+            "Fecha de extracción": "2024-08-13 10:12:40"
+        },
+        {
+            "Canal": "Casiopea Política",
+            "CanalID": "UCkQTnbHm2LO4XaW6Az3Kuzg",
+            "Nombre": "@estanislaosantos3015",
+            "Fecha de extracción": "2024-08-13 10:24:23"
+        },
+        {
+            "Canal": "Politikon",
+            "CanalID": "UC0HxyEc_ojRJ1oJXS5K6oaA",
+            "Nombre": "@Politikon_",
+            "Fecha de extracción": "2024-08-13 10:24:47"
+        },
+        {
+            "Canal": "Estado de Alarma TV",
+            "CanalID": "UCM9R6-iDy0O8I1Uv5_FCtyg",
+            "Nombre": "@EstadodeAlarmaTV",
+            "Fecha de extracción": "2024-08-13 10:28:23"
+        },
+        {
+            "Canal": "Fort Apache - Público TV",
+            "CanalID": "UCzoE2GeGTIcSiBmLoOLYsWQ",
+            "Nombre": "@Fortapachecmi",
+            "Fecha de extracción": "2024-08-13 10:29:03"
+        },
+        {
+            "Canal": "HispanTV",
+            "CanalID": "UCY8d83kIW6sK4au73qeZZTw",
+            "Nombre": "@afpes",
+            "Fecha de extracción": "2024-08-13 11:47:46"
+        },
+        {
+            "Canal": "Espurismo",
+            "CanalID": "UCb-o5tbX5q65c72LcJFp-5g",
+            "Nombre": "@EspiritismoVargas",
+            "Fecha de extracción": "2024-08-16 15:57:27"
+        },
+        {
+            "Canal": "Periodismo de Guerra",
+            "CanalID": "UCY60RKQDDt_EQcWBomTWz5g",
+            "Nombre": "@ministeriodefensaesp",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Pasado y Presente",
+            "CanalID": "UCjIA3wwhi0QjSOXAZwOXbPA",
+            "Nombre": "No disponible",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Enrique de Diego",
+            "CanalID": "UCHWqV7h6u1JcIEcQV5OkJsA",
+            "Nombre": "@prnoticias",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Canal Europa",
+            "CanalID": "UCnCFR7fWyoX9EPBN34QsfRg",
+            "Nombre": "@europaeuropatv",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Redacción RTVE",
+            "CanalID": "UC7QZIf0dta-XPXsp9Hv4dTw",
+            "Nombre": "@rtvenoticias",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Análisis Global",
+            "CanalID": "UCdCRkIf1HFFg-u8NLX2Er4w",
+            "Nombre": "@javimgol",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Newtral",
+            "CanalID": "UCDZ95EUKhw9wrwXdiKskgKw",
+            "Nombre": "@TheTechGiantYouTube",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Mundo Desconocido",
+            "CanalID": "UCRAFplJ4UGiN86otx8BS7EA",
+            "Nombre": "@CINETELMULTIMEDIA",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "DW Documental (Español)",
+            "CanalID": "UCQ1GpKa15ulyoQuxz7H4rng",
+            "Nombre": "@DWDocumental",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Tertulias Internacionales",
+            "CanalID": "UC1IYhBFQbBWIxirTRbcfIUw",
+            "Nombre": "@esRadiovideos",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Hispantv Documentales",
+            "CanalID": "UC9-iwQvsEg6Zt9valtBIZhA",
+            "Nombre": "@artetvdocumentales",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "El Mapa de Sebas",
+            "CanalID": "UCVbOEcs6RMxXXX3WWNtl_Fw",
+            "Nombre": "@ElMapadeSebas",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "El Debate de Hoy",
+            "CanalID": "UC8FOhz3iXhF1iqqzAFfBjmA",
+            "Nombre": "@eldebate_com",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Canal RT (Español)",
+            "CanalID": "UCpcvsK0UAI3MIHsjjj3CgMg",
+            "Nombre": "@RedMasNoticias",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Fijando Posición",
+            "CanalID": "UCr6RpNz4Ni7SpL0KDejMl1g",
+            "Nombre": "@JALOSAN59",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "RFI Español",
+            "CanalID": "UC4O4jH5PBsZagQ6aPWPibRQ",
+            "Nombre": "@RFI_Es",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Noticias de la Mañana (Telemadrid)",
+            "CanalID": "UCv2BcgqxHSrl2QQfIkjR5Eg",
+            "Nombre": "@telemadrid",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Intereconomía TV",
+            "CanalID": "UCkrULMpJd04PEtr0fvhjDKw",
+            "Nombre": "@Toroteca",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Spain Today",
+            "CanalID": "UCE5hoPfKusdD0md1fYjp3zw",
+            "Nombre": "@spainspeaks",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Onda Vasca",
+            "CanalID": "UCCnY5a5RSOAiEOSKtBbQ1UA",
+            "Nombre": "@ondavasca3930",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "La Voz de César Vidal",
+            "CanalID": "UCM9R6-iDy0O8I1Uv5_FCtyg",
+            "Nombre": "@EstadodeAlarmaTV",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Xataka TV",
+            "CanalID": "UCUrYBZGlEOSD1_ds_HcNd6A",
+            "Nombre": "@XatakaTV",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Topes de Gama",
+            "CanalID": "UCok_yhjwg4WSx3s_2Yh8ZjQ",
+            "Nombre": "@TopesdeGama",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Eliax",
+            "CanalID": "UCkf-uWBGUlvtFx6dhs2ECuQ",
+            "Nombre": "@genexusmeetings",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Hablando de Tecnología",
+            "CanalID": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "Nombre": "@TEDx",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Byte Brothers",
+            "CanalID": "UCunwpIDYKX-RkLb7hPQkuSA",
+            "Nombre": "@BridgeCable",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Pro Android",
+            "CanalID": "UCXk9Voo5cAfoYbnXjrNZhVw",
+            "Nombre": "@Proandroid",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Mundo Digital TV",
+            "CanalID": "UCiwO_Bv6zB6RjzQcNJGlz6Q",
+            "Nombre": "@MundodigitalNet",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Tecnonautas",
+            "CanalID": "UCFOSg71CRAJ58IPuV_-jMbw",
+            "Nombre": "@Tecnonauta",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Isartvlog",
+            "CanalID": "UC_MhaTWzoGIpwv63ZDvy9zg",
+            "Nombre": "@isartvlog",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Urban Tecno",
+            "CanalID": "UCHhfu5p0zydyM-_nw3IJvig",
+            "Nombre": "@urbantecno",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Clipset",
+            "CanalID": "UCYkoAtIMi6oFG_8SO5YrauQ",
+            "Nombre": "@clipset",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Tuexperto.com",
+            "CanalID": "UCgm8WjF1SJJ84Z0mxK34nrQ",
+            "Nombre": "@tuexperto",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "FAQ-Mac",
+            "CanalID": "UCEw1tw9eMR6a3wgFUZKPn1A",
+            "Nombre": "@faqmac",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Androidsis",
+            "CanalID": "UCnreKfR5Y1vq-4GJJFVNgBQ",
+            "Nombre": "@androidsis",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "MarcianoTech",
+            "CanalID": "UCCGiOPUPTlQupYmDMpUxB4A",
+            "Nombre": "@MarcianoTech",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "David Morganson",
+            "CanalID": "UCmx6Vj8pdMdZIeJHquMWH6w",
+            "Nombre": "@WindowsDesatendidos",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Antonio Ortiz (Error500)",
+            "CanalID": "UCEw1tw9eMR6a3wgFUZKPn1A",
+            "Nombre": "@faqmac",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Technovation by Isaac",
+            "CanalID": "UCvxNjrhfz_M68fwT2QcurjQ",
+            "Nombre": "@TechnovationGlobal",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "ChicaGeek",
+            "CanalID": "UCGdlvijxkue8x5AyBrBUljQ",
+            "Nombre": "@chicageek",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Teknofilo TV",
+            "CanalID": "UCHX5MuTCTTXJrA5sVqpmcQQ",
+            "Nombre": "@TeknofiloCOM",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "La Manzana Mordida",
+            "CanalID": "UCeNM2cr0tcisyZ15OtsNldg",
+            "Nombre": "@LaMMordida",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Andro4all",
+            "CanalID": "UCok_yhjwg4WSx3s_2Yh8ZjQ",
+            "Nombre": "@TopesdeGama",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Zona Red",
+            "CanalID": "UC86poJ4x8wLY0ovyr5SRTcA",
+            "Nombre": "@zonared9717",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "ComputerHoy",
+            "CanalID": "UCr3namXGtxezx5Lv5mOzGwQ",
+            "Nombre": "@Computerhoycom",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Apple5x1",
+            "CanalID": "UCeNM2cr0tcisyZ15OtsNldg",
+            "Nombre": "@LaMMordida",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Tecnología Bit",
+            "CanalID": "UCfWIsG5UTPLL7Zdm0Smah0A",
+            "Nombre": "@GCFAprendeLibre",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Micromanía",
+            "CanalID": "UCTcKYaQaBVhLUdVYutjOktg",
+            "Nombre": "@VyoletMusic",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "PCComponentes TV",
+            "CanalID": "UC01kfeLTKU0DGcRGI-OLSig",
+            "Nombre": "@jesustc87",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "OverCluster",
+            "CanalID": "UCP1V6E8U8OD9UJErTNZF3Og",
+            "Nombre": "@overcluster4022",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Tecnonauta",
+            "CanalID": "UCFOSg71CRAJ58IPuV_-jMbw",
+            "Nombre": "@Tecnonauta",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "QuantumFracture",
+            "CanalID": "UCbdSYaPD-lr1kW27UJuk8Pw",
+            "Nombre": "@QuantumFracture",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Date un Vlog",
+            "CanalID": "UCQX_MZRCaluNKxkywkLEgfA",
+            "Nombre": "@dateunvlog",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "CdeCiencia",
+            "CanalID": "UC52hytXteCKmuOzMViTK8_w",
+            "Nombre": "@CdeCiencia",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "El Robot de Platón",
+            "CanalID": "UCaVPhFg-Ax873wvhbNitsrQ",
+            "Nombre": "@ElRobotdePlaton",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Dimensión Laika",
+            "CanalID": "UCVDrptOP7RvE2t3s_qkNftA",
+            "Nombre": "@acidflores5352",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "La Ciencia de la Mula Francis",
+            "CanalID": "UCOHCRQDAr9HC5d59XvziJFQ",
+            "Nombre": "@EitbEus",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Derivando",
+            "CanalID": "No encontrado",
+            "Nombre": "No disponible",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Científicos en Acción",
+            "CanalID": "UCB5o4GDP0wqTzKYzXkudOYw",
+            "Nombre": "@alejandroheribertobuschman361",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "CuriosaMente",
+            "CanalID": "UCX16cLWl6dCjlZMgUBxgGkA",
+            "Nombre": "@curiosamente",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Dr. Fisión",
+            "CanalID": "UCEQXxiYxNZbym9Fad7-n2Lg",
+            "Nombre": "@doctorfision",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Ciencias de la Ciencia",
+            "CanalID": "UCRqMtwFoOClztX7qX3sepdA",
+            "Nombre": "@JorgeCogollo",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "La Gata de Schrödinger",
+            "CanalID": "UCoXtmmnLCbXDiSo8GxsmOzA",
+            "Nombre": "No disponible",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Ciencia en el Bar",
+            "CanalID": "UCENHrIzdkkGD3t1jMc-HA_w",
+            "Nombre": "@CienciaenelBaroficial",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Ciencias para Todos",
+            "CanalID": "UCijeV9aEWlyQm-YlcecSIcg",
+            "Nombre": "@Cienciasparatodo",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Ciencia y Misterio",
+            "CanalID": "UCe8xcLkP0SlQbJmgq8qZbig",
+            "Nombre": "@cienciaymisterio",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Ciencia con Jess",
+            "CanalID": "UCFCK798jsVokM5oRvBi9asA",
+            "Nombre": "No disponible",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Big Van Ciencia",
+            "CanalID": "UC_PZITA0uBZRC5E1fCrBVXQ",
+            "Nombre": "@ElFuturoEsApasionante",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Unboxing Ciencia",
+            "CanalID": "UCbiNMBd57pgETEFbiDSa4yQ",
+            "Nombre": "@CortesCienciaSemFim",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Supercurioso",
+            "CanalID": "UCZSIYDqgVKR4hmh294LSOfg",
+            "Nombre": "@SupercuriosoOficial",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Ciencia con Humanoides",
+            "CanalID": "No encontrado",
+            "Nombre": "No disponible",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Clave de Pi",
+            "CanalID": "UCBYyJBCtCvgqA4NwtoPMwpQ",
+            "Nombre": "@TheWildProject",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Ciencia y Tecnología Hoy",
+            "CanalID": "UCB9hiJOxt0xoYAlXzKsOyKg",
+            "Nombre": "No disponible",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Espaciados",
+            "CanalID": "UCwgivpl4rSvh63k2em21Ixg",
+            "Nombre": "@Hans-Gallardo",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Ciencia en Español",
+            "CanalID": "UCXtxgWwk55kVJo9lCCZRdmg",
+            "Nombre": "@VeritasiumES",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Historias de la Ciencia",
+            "CanalID": "UCUSiWX2jnPcT0K-smDhT9eg",
+            "Nombre": "@Astronomiaweb",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Ciencia Clara",
+            "CanalID": "UCwityNUloBuOUv11xA5RRdw",
+            "Nombre": "@musicaporlaciencia",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Cazadores de Mitos",
+            "CanalID": "UCcP6Vtkc2DtQ0IV9r_x6pCQ",
+            "Nombre": "@DiscoveryLAT",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Ciencia de Sofá",
+            "CanalID": "UCMbQbVilo-nezMvwf1BZfAA",
+            "Nombre": "@CienciaDeSofa",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Un Mundo Increíble",
+            "CanalID": "UCdwdFOhBP9CoAOlHDTmTxaw",
+            "Nombre": "@UnMundoInmenso",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "CienciaEs",
+            "CanalID": "UCAoeek3zYX8IMuMhiZOgw7Q",
+            "Nombre": "@cienciaescom",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Dr. Jordi Domingo",
+            "CanalID": "UCXbOnjTczQQWKYeB06TBDzQ",
+            "Nombre": "@llorencmazanavarro783",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Naukas",
+            "CanalID": "UCOHCRQDAr9HC5d59XvziJFQ",
+            "Nombre": "@EitbEus",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "MedCiencia",
+            "CanalID": "UC4oYbnFWYjMmlX23TiQhXKw",
+            "Nombre": "@RoberURV",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Rincón de Fisioterapia",
+            "CanalID": "UCE1of3IN2XQKEC5YI7ICmCA",
+            "Nombre": "@thefisioprogram",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Tu Canal de Salud",
+            "CanalID": "UC6iRiXWScChTr6uNLXjJYFQ",
+            "Nombre": "@FisioOnline.",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Vivir con Salud",
+            "CanalID": "UCbYu128-_tCzaArNr5R2DIw",
+            "Nombre": "@radio_libertad",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Medicina Clara",
+            "CanalID": "UCNVC7OaQiFWFASGTXVQnuoA",
+            "Nombre": "@medicinaclara",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Mi Fit Club",
+            "CanalID": "UCkmY5ThPy3GLINI0m06ffaQ",
+            "Nombre": "@CKYew",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Salud y Bienestar",
+            "CanalID": "UCCZpm6436NiU__lcBAlEZmQ",
+            "Nombre": "@SmileandLearnEspa",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Hablando de Salud",
+            "CanalID": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "Nombre": "@TEDx",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "FisioOnline",
+            "CanalID": "UC6iRiXWScChTr6uNLXjJYFQ",
+            "Nombre": "@FisioOnline.",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Fisioterapia a tu Alcance",
+            "CanalID": "UCRL5LNzLe0AsDB9V9kE5sAg",
+            "Nombre": "@Fisioterapiaatualcance",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Psicología y Mente",
+            "CanalID": "UCI6QcXatdaEAaRTRjl3dc0w",
+            "Nombre": "@AprendemosJuntos",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Mundo Psicólogos",
+            "CanalID": "UCI6QcXatdaEAaRTRjl3dc0w",
+            "Nombre": "@AprendemosJuntos",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Health and Fitness",
+            "CanalID": "UCuTaETsuCOkJ0H_GAztWt0Q",
+            "Nombre": "@gcn",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "El Canal de la Salud",
+            "CanalID": "UCdjtCTk9HOqIwjhKgSQEzeg",
+            "Nombre": "@ConsultasDeSalud",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Soy Mamá",
+            "CanalID": "UCN04t6U_UvDxTb2RcFh27mg",
+            "Nombre": "No disponible",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "La Ciencia del Bienestar",
+            "CanalID": "UCK37pP7cgT2nJEMAmlrihOQ",
+            "Nombre": "@HITNTelevision",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Fitness en Casa",
+            "CanalID": "UCt7OxkeplDVKkRkrrNJdogg",
+            "Nombre": "@Fitnessencasa",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Alimenta tu Vida",
+            "CanalID": "UCfvC5z7WKcgDMYuCK8sjEHg",
+            "Nombre": "@lic.aliciacrocco",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Nutrición Sin Más",
+            "CanalID": "No encontrado",
+            "Nombre": "No disponible",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Cuerpo y Mente",
+            "CanalID": "UCI6QcXatdaEAaRTRjl3dc0w",
+            "Nombre": "@AprendemosJuntos",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Medicos por el Mundo",
+            "CanalID": "UCR9120YBAqMfntqgRTKmkjQ",
+            "Nombre": "@A24com",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Escuela de Salud",
+            "CanalID": "UCXHxhxIyYLQheVPE6SMF2Cg",
+            "Nombre": "@EscueladeSaludIntegrativa",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Fisio Focus",
+            "CanalID": "UCOS3jBH8RVbNgmvjy69RUgw",
+            "Nombre": "@Fisiofocus",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Me llamo Salud",
+            "CanalID": "UCUF6CW5FvBXmEDQuOwEsnmA",
+            "Nombre": "@YosoyelYOSOY",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Salud Total",
+            "CanalID": "UCsQeX2Oho6H5UJZi6n4Wh-Q",
+            "Nombre": "@saludtotal",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Vida Sana",
+            "CanalID": "No encontrado",
+            "Nombre": "No disponible",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Más Que Médicos",
+            "CanalID": "UCXi-7dpQ1mnf8kxIVCe9mCA",
+            "Nombre": "@la7tele",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "El Mundo de la Salud",
+            "CanalID": "UCCwRtme3lumNRQXMO2EvCvw",
+            "Nombre": "@TeleamazonasEcuadorOficial",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Juan Ramón Rallo",
+            "CanalID": "UCBLCvUUCiSqBCEc-TqZ9rGw",
+            "Nombre": "@juanrallo",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "VisualPolitik ES",
+            "CanalID": "UCJQQVLyM6wtPleV4wFBK06g",
+            "Nombre": "@VisualPolitik",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "El Confidencial (Economía)",
+            "CanalID": "UCY2hu_NT5NDbBU-HGxgqMuA",
+            "Nombre": "@Elconfidencialtv",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Daniel Lacalle",
+            "CanalID": "UCoA66gIqiExUIjwyw1cB9Dw",
+            "Nombre": "@DanielLacalleOfficial",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "El Blog Salmón TV",
+            "CanalID": "UCSuqMvJQKe0zEcU58OfL7cw",
+            "Nombre": "@Chicotolu",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Economía Despierta (España)",
+            "CanalID": "UCRyGJcJYqqiCByEaUhDLMsw",
+            "Nombre": "@Ahora_Play",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Jordi Évole (Secciones de economía)",
+            "CanalID": "UCh1OgMIWOlDBhFEYL3DHWjQ",
+            "Nombre": "@laSexta",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Marc Vidal",
+            "CanalID": "UCKC77AR_zWXRTE2GOD_2Uag",
+            "Nombre": "@marc_vidal",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Xavier Sala-i-Martín",
+            "CanalID": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+            "Nombre": "@som3cat",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Economía Para Todos",
+            "CanalID": "UC9d2KgZ0XZiR2Zil51he4rg",
+            "Nombre": "@GustavoRCOMPANY",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Libertad Digital TV (Economía)",
+            "CanalID": "UCUS73_bjTYwBFAfXbvIjM8Q",
+            "Nombre": "@LibertadDigital",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Finect",
+            "CanalID": "UCzKnSeOq30zVvgosDFlne5g",
+            "Nombre": "@Finect",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Value School",
+            "CanalID": "UCpLie5obXFdf8T0NG-IRHsA",
+            "Nombre": "@ValueSchool",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "La ContraCrónica (Fernando Díaz Villanueva)",
+            "CanalID": "UChojFzThpgObGHmdMS1rpvA",
+            "Nombre": "@diazvillanueva",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Economía Responsable",
+            "CanalID": "UCkauzvZPU6ljzP9IN2AFtmg",
+            "Nombre": "No disponible",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "BBVA Research",
+            "CanalID": "UCmU9b04Ym19_OvsSdt7rRYg",
+            "Nombre": "@CapitalRadioB",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Economía y Finanzas para Todos",
+            "CanalID": "UCysHQr5Pnvlv4Nka5jBQDKQ",
+            "Nombre": "@FinanzasparatodosYT",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Roberto Centeno",
+            "CanalID": "UCSlXhZQeQOcI3l4uKFmKbgg",
+            "Nombre": "@Hemerotecadelbuitre",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Finanzas Personales (YouTube)",
+            "CanalID": "UCGsIqLkK3RSQtx6tvNWnZxw",
+            "Nombre": "@ADNFinanciero",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Economía Digital TV",
+            "CanalID": "UCY2hu_NT5NDbBU-HGxgqMuA",
+            "Nombre": "@Elconfidencialtv",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Expansión (YouTube)",
+            "CanalID": "UCBWF6OT9sHQU0rnMmUPdmyA",
+            "Nombre": "@CuadernodeHistoria",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Economipedia TV",
+            "CanalID": "UCFyqRLI9pQU1rOcQk71W4dA",
+            "Nombre": "@Economipedia",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Economistas Frente a la Crisis",
+            "CanalID": "UC09u0IiJ_McvZCdmk0AvBTg",
+            "Nombre": "@EconomistasFrentealaCrisis",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Rankia",
+            "CanalID": "UCXuvaRPJVoUV0DNhMck0CvQ",
+            "Nombre": "@rankialive",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Economista José García Montalvo",
+            "CanalID": "UC3c74XzQsFythXsQlwaqR9Q",
+            "Nombre": "@BloGeneracionPerdida",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Economía para la Ciudadanía",
+            "CanalID": "UC0vvj9r5G4Gv6_JzW25H94g",
+            "Nombre": "@fgumaTV",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Think Wasabi (Sección Finanzas)",
+            "CanalID": "UCSpGsUDywYonSOJuQnpA-Lw",
+            "Nombre": "@ThinkWasabiVideos",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Economía y Sociedad",
+            "CanalID": "UCjiPl5g6iD70IKjSt2crMHg",
+            "Nombre": "@saladehistoria8384",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "Invertir y ganar",
+            "CanalID": "UCYqm8Y6tfO1HvGSIILyfeOA",
+            "Nombre": "@InvertirdesdeCero",
+            "Fecha de extracción": ""
+        },
+        {
+            "Canal": "InfoCapitalista",
+            "CanalID": "UCzxnH0epnHo_XkQ4fgnLbag",
+            "Nombre": "@redcapitalistarp4157",
+            "Fecha de extracción": ""
+        }
+    ]
+}
